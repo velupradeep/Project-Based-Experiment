@@ -44,12 +44,9 @@ From the HDL code given formulate the correct code  to divert the traffic to pa
 ```
 Developed by:PRADEEP V
 RegisterNumber:212223240119
-
 ```
-
 ```
-
-module TrafficLightController(
+  module TrafficLightController(
     input clk,
     output reg red1,
     output reg yellow1,
